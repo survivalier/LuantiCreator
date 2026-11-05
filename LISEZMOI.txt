@@ -1,0 +1,2 @@
+Déposez ici des plugins au format .zip : ils seront intégrés à l'exécutable à la prochaine compilation
+(rm -rf build && bash build.sh) et installés automatiquement au lancement. Voir PLUGINS.md.
